@@ -1,0 +1,10 @@
+1.  There are n number of stones. Each stone has a weight associated with it. 1st stone’s weight is 1, 2nd stone’s weight is 2.. and so on. You are given an integer x. You need to pick the maximum number of stones such that the total weight of stones picked is less than x.
+You’re also given an array of stones which you can not pick.
+– Input:
+n = 10 (there are 10 stones with weights 1, 2, 3, 4, 5, 6, 7, 8, 9 and 10)
+x = 12 (total weight of collected stones can not exceed 12)
+arr = {1, 2, 5} (stones with weight 1, 2 and 5 can not be picked)
+
+------------------------------------------------------------------------------------------------------
+
+2
